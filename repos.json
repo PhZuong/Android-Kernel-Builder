@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "gta2xllte_halium",
-      "repo": "https://github.com/PhZuong/android_kernel_samsung_msm8953.git",
-      "branch": "lineage-16.0",
+      "repo": "https://github.com/UDPSendToFailed/android_kernel_samsung_gta2xlwifi.git",
+      "branch": "halium-10.0",
       "device": "gta2xllte"
     },
     "withKernelSU": false,
@@ -32,8 +32,8 @@
   {
     "kernelSource": {
       "name": "gta2xllte_halium",
-      "repo": "https://github.com/PhZuong/android_kernel_samsung_msm8953.git",
-      "branch": "lineage-16.0",
+      "repo": "https://github.com/UDPSendToFailed/android_kernel_samsung_gta2xlwifi.git",
+      "branch": "halium-10.0",
       "device": "gta2xllte"
     },
     "withKernelSU": true,
